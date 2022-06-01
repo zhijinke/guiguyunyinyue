@@ -1,0 +1,6 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "视频页",
+  "backgroundTextStyle": "dark",
+  "enablePullDownRefresh": true
+}
